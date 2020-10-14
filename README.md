@@ -6,8 +6,6 @@ V. Isualize asked for a summary of ride-sharing data from PyBer that analyzes we
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-<img width="208" alt="summary_data_frame" src="https://user-images.githubusercontent.com/64506842/96056352-2fa2f480-0e3b-11eb-81a5-444bb2b4b78f.PNG">
-
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/64506842/96037028-26556000-0e1a-11eb-9486-8bf5a55cab85.png)
 
