@@ -14,7 +14,10 @@ As you can see from the data frame and the line chart visualization, the weekly 
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
-Based on the results of the PyBer Analysis I wouldm recommend incentivizing rides in Rural and Suburban areas to increase the number of users and the demand for ride share access. This should then increase profits, allow fares to be lower, and increase the total ride count in rural and suburban areas which would increase the ride count. 
+Based on the results of the PyBer Analysis I would recommend incentivizing rides in Rural and Suburban areas to increase the number of users and the demand for ride share access. This should then increase profits, allow fares to be lower, and increase the total ride count in rural and suburban areas.
 
+Drivers in Urban cities are making much less in average fares than drivers in rural cities. Specifically, drivers in rural cities are making  70.14% more than drivers in urban cities. Urban locations are generally more expensive to live than rural areas, so this seems like it would be a problem for PyBer Drivers in urban areas. If the total number of drivers was decreased, drivers would earn more money and lessen the salary gap between urban and rural drivers.
+
+While drivers make 70% more than urban drivers, urban fares are only 30% less than rural fares. 
 
 
